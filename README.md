@@ -1,16 +1,13 @@
 <h1 align="center">
  💫 Hi 👋, I'm Gaurav Kumar </h1>
-<h4 align="center">**A Full stack  developler || AI/ML-Data Science || Admin from India**
+<h4 align="center">**A Full stack  developler || AI/ML-Data Science || Admin from India** <br>
+Email Me 👉 **gkyadav834@gmail.com** For Collaboration/Project or Anything Else. 😊😊</h4>
 
-Email Me 👉 ✉️ **gkyadav834@gmail.com** For Collaboration/Project or Anything Else. 😊😊</h4>
-
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
+- 🌱 **I’m currently learning:** BCA :- GNIOT (GRATER NOIDA) AFFIRED BY CCSU (MEERUT)
+- 🔭 **I’m currently working on:** Skills
+- 👯 **I’m looking to collaborate on:** PROJECT
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
+- 📫 **How to reach me:** +918954386457
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
