@@ -1,6 +1,6 @@
 <h1 align="center">
  💫 Hi 👋, I'm Gaurav Kumar </h1>
-<h4 align="center">**A Full stack  developler || AI/ML-Data Science || Admin from India** <br>
+<h4 align="center">**Data Analysis || AI/ML-Data Science || Admin from India** <br>
 Email Me 👉 **gkyadav834@gmail.com** For Collaboration/Project or Anything Else. 😊😊</h4>
 
 - 🌱 **I’m currently learning:** BCA :- GNIOT (GRATER NOIDA) AFFIRED BY CCSU (MEERUT)
